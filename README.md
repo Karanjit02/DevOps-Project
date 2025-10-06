@@ -14,6 +14,9 @@ npx sv create
 npx sv create my-app
 ```
 
+## Figma:
+https://www.figma.com/design/w0xsyoyGUIRLXatP7tl4Ki/DatCopps?node-id=0-1&t=iE7j1SyKRC9g9iLB-1
+
 ## Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
